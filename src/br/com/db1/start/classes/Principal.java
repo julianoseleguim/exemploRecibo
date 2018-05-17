@@ -1,6 +1,6 @@
 package br.com.db1.start.classes;
 
-public class principal {
+public class Principal {
 	public static void main(String[] args) {
 		exibirCepFormatado(80540150);
 		exibirCepFormatado(87909990);
